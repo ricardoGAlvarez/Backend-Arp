@@ -1,4 +1,4 @@
-FROM amazoncorretto:19
+FROM amazoncorretto:20-alpine-jdk
 
 COPY target/porfolio-0.0.1-SNAPSHOT.jar porfolio.jar
 
