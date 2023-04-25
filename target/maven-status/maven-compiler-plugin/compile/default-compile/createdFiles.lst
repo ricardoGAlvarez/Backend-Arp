@@ -21,6 +21,7 @@ com\tutorial\crud\security\enums\RolNombre.class
 com\tutorial\crud\controller\CEducacion.class
 com\tutorial\crud\service\ImpPersonaService.class
 com\tutorial\crud\repository\RExperiencia.class
+com\tutorial\crud\security\config\BeansConfig.class
 com\tutorial\crud\security\service\RolService.class
 com\tutorial\crud\security\entity\UsuarioPrincipal.class
 com\tutorial\crud\dto\dtoExperiencia.class

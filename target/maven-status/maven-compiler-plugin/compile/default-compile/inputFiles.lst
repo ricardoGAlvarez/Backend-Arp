@@ -1,44 +1,45 @@
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\dto\dtoProyecto.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\entity\hys.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\jwt\JwtTokenFilter.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\dto\dtoEducacion.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\controller\AuthController.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\dto\LoginUsuario.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\dto\NuevoUsuario.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\MainSecurity.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\service\UsuarioService.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\dto\Mensaje.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\jwt\JwtProvider.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\entity\Educacion.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\repository\REducacion.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\enums\RolNombre.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\repository\RolRepository.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\service\SEducacion.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\service\RolService.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\entity\Experiencia.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\entity\UsuarioPrincipal.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\entity\Proyecto.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\service\SProyecto.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\service\UserDetailsServiceImpl.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\dto\dtohys.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\repository\RProyecto.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\entity\Rol.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\service\ImpPersonaService.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\entity\Persona.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\repository\IPersonaRepository.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\entity\Usuario.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\dto\dtoExperiencia.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\repository\RExperiencia.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\repository\Rhys.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\repository\UsuarioRepository.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\controller\CHys.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\dto\JwtDto.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\dto\dtoPersona.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\controller\PersonaController.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\service\SExperiencia.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\controller\CExperiencia.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\service\Shys.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\Porfolio.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\controller\CProyecto.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\security\jwt\JwtEntryPoint.java
-C:\Users\ricar\Desktop\Proyectos\Porfolio\nuevoPorfolio backend\BACKUP\src\main\java\com\tutorial\crud\controller\CEducacion.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\entity\UsuarioPrincipal.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\service\UserDetailsServiceImpl.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\service\SEducacion.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\jwt\JwtProvider.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\controller\CEducacion.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\MainSecurity.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\repository\REducacion.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\controller\CHys.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\dto\JwtDto.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\service\RolService.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\repository\IPersonaRepository.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\controller\CExperiencia.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\repository\RExperiencia.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\dto\LoginUsuario.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\service\SExperiencia.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\entity\hys.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\service\UsuarioService.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\repository\RolRepository.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\service\ImpPersonaService.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\controller\PersonaController.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\entity\Proyecto.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\repository\UsuarioRepository.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\dto\dtoEducacion.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\Porfolio.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\repository\RProyecto.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\dto\dtoPersona.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\repository\Rhys.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\entity\Persona.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\entity\Usuario.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\entity\Experiencia.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\dto\Mensaje.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\jwt\JwtEntryPoint.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\controller\CProyecto.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\config\BeansConfig.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\dto\dtoProyecto.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\entity\Educacion.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\entity\Rol.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\jwt\JwtTokenFilter.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\dto\dtohys.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\dto\dtoExperiencia.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\dto\NuevoUsuario.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\service\SProyecto.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\enums\RolNombre.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\service\Shys.java
+C:\Users\BloodyNote\Downloads\Compressed\backup-main\src\main\java\com\tutorial\crud\security\controller\AuthController.java
